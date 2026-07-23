@@ -1,3 +1,11 @@
+# Dataset
+data/*
+!data/.gitkeep
+
+# Trained Models
+models/*
+!models/.gitkeep
+
 # Virtual Environment
 venv/
 .venv/
