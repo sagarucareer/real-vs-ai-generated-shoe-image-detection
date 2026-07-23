@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Model Files
+*.h5
+*.keras
+*.ckpt
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
